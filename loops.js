@@ -20,5 +20,11 @@ function doWhileLoop(array) {
   if(array.length === 0) {
     return array
   }
+  do 
+  function maybeTrue() {
+    if(array.length === 0{
+      return array
+    })
+  }
 
 }
