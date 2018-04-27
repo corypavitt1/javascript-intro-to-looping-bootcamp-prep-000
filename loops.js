@@ -18,14 +18,14 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   do {array.pop;
-    while(maybeTrue())
+    while(array.lenght >=0 && maybeTrue())
   }
 }
 
   function maybeTrue() {
     if(array.length === 0{
       return array
-      
+
 
   }
 
