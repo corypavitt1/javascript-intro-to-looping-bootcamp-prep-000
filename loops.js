@@ -16,8 +16,10 @@ function whileLoop(n) {
   return ('done')
 }
 
-function maybeTrue() {
-  if (array.length > 0)
+function maybeTrue(n) {
+  if (array.length > 0) {
+    n--
+  }
 }
 
 do {
