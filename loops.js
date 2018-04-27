@@ -23,8 +23,9 @@ function doWhileLoop(array) {
 }
 
   function maybeTrue() {
-    if(array.length > 0{
-
+    if(array.length === 0{
+      return array
+      
 
   }
 
