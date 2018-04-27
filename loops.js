@@ -20,6 +20,7 @@ function doWhileLoop(array) {
   do {array.pop;
     while(array.length >0)
   }
+}
 
   function maybeTrue() {
     if(array.length === 0{
